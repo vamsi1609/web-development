@@ -1,4 +1,11 @@
 
+**[06-12-2023-21:05]**
+**Added**
+- Added extras folder
+- added index.html
+- added a sample image
+- added style.css
+
 **[06-12-2023-20:41]**
 **Added**
 - Added bookmarker.html
