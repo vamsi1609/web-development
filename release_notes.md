@@ -1,4 +1,11 @@
 
+**[06-12-2023-20:41]**
+**Added**
+- Added bookmarker.html
+
+**Changes**
+- Upadted index.html
+
 **[06-12-2023-20:21]**
 **Added**
 - Added folder bookmark
