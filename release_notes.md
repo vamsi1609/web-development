@@ -1,4 +1,8 @@
 
+**[10-12-2023-20:25]**
+**Added**
+- SEO folder
+- index.html
 **[06-12-2023-21:05]**
 **Added**
 - Added extras folder
