@@ -1,4 +1,9 @@
 
+**[16-12-2023-21:35]**
+**Added**
+- symantic_tags folder
+- index.html containing symantic tags
+- style.css contains different colors
 **[16-12-2023-20:55]**
 **Added**
 - added video_n_audio folder
