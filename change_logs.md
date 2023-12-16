@@ -1,9 +1,14 @@
 
+**[16-12-2023-20:55]**
+**Added**
+- added id_n_classes folder.
+- index.html containing id and class examples.
+- style.css contains class definitions and id tagging.
 **[16-12-2023-20:20]**
 **Added**
-- block_inline folder
-- index.html for bock and inline elements
-- style.css for giving color to different elements
+- block_inline folder.
+- index.html for bock and inline elements.
+- style.css for giving color to different elements.
 **[10-12-2023-21:10]**
 **Added**
 - forms folder
