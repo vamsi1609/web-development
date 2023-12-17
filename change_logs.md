@@ -1,6 +1,9 @@
 
-c
-**[16-12-2023-21:35]**
+**[17-12-2023-21:35]**
+**Added**
+- CSS intro folder
+- index.html containing style tags
+**[17-12-2023-21:35]**
 **Added**
 - symantic_tags folder
 - index.html containing symantic tags
